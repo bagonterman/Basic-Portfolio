@@ -1,0 +1,31 @@
+header{
+    
+        height: 200px;
+        width: 50%;
+    
+   
+}
+#myHeader{
+    display: block;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold; 
+}
+
+#sectionOne{
+    float: left;
+
+}
+.float-right{
+    float: right;
+}
+#profile_Image{
+    width: 200px
+    height: 200px
+}
+p{
+    margin-left: 10px;
+    
+}
